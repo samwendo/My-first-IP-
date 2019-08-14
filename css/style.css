@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/code_coding_binary_code_abstract_patterns_112140_3840x2400.jpg)
+}
+h1{
+    color: rgba(134, 108, 89, 0.911);
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    background-color:rgba(60, 54, 141, 0.63);
+
+}
+.main ul{
+    background-color: rgba(105, 41, 41, 0.431);
+}
+.main2 h4 {
+    background-color: rgba(62, 101, 185, 0.527);
+
+
+}
+.main2 h4 {
+      color: rgba(134, 221, 20, 0.5);
+
+}
+.main3 p {
+    background-color: rgba(139, 3, 3, 0.575);
+}
